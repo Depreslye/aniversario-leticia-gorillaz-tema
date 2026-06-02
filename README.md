@@ -278,3 +278,13 @@ for(let i=0;i<120;i++){
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
   </iframe>
 </section>  
+<section>
+    <h2>🎬 Vídeo Especial</h2>
+    <iframe
+        width="100%"
+        height="500"
+        src="https://youtu.be/-24jJ5Z1yiM?si=qhyKdnYb8tI60RPM"
+        title="Vídeo do YouTube"
+        allowfullscreen>
+    </iframe>
+</section>
